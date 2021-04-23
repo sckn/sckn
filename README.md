@@ -6,8 +6,9 @@
 - 🤔 I’m looking for help with Python Programmer
 - 💬 Ask me about Linux, Python etc
 
-### Visitor Count
-<img src="https://stats.seckinalan.net.tr/?a=g&u=sckn&c=r" />
+<a href="https://dev.to/sckn">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="sckn's DEV Community Profile" height="30" width="30">
+</a>
 
 ### 📈 &nbsp;Analytics
 
