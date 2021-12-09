@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working in Medianova CDN
+- 🔭 I’m currently working VDF
 - 🌱 I’m currently learning Kubernetes
-- 🤔 I’m looking for help with Python Programmer
-- 💬 Ask me about Linux, Python etc
+- 💬 Ask me about Linux, Python, DevOps etc
 
 <a href="https://dev.to/sckn">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="sckn's DEV Community Profile" height="30" width="30">
