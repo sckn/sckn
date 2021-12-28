@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working VDF
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently 
 - 💬 Ask me about Linux, Python, DevOps etc
 
 <a href="https://dev.to/sckn">
