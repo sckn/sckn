@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working VDF
-- 🌱 I’m currently 
+- 🔭 I’m currently working Naduvi
 - 💬 Ask me about Linux, Python, DevOps etc
 
 <a href="https://dev.to/sckn">
